@@ -5,6 +5,6 @@
 	"description": "This mod adds trophy-point-free NG+ option toggles to CrossCode.",
 	"ccmodDependencies": {
 		"ccloader": "^2.11.0",
-		"crosscode": "1.2.X"
+		"crosscode": "^1.2.X"
 	}
 }
